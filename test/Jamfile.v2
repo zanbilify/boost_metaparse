@@ -1,6 +1,6 @@
 import testing ;
 
-project metaparse :
+project :
   requirements
     <toolset>gcc:<cxxflags>"-ftemplate-depth-300"
     <toolset>clang:<cxxflags>"-ftemplate-depth-300"
