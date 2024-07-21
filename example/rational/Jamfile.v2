@@ -1,5 +1,5 @@
 project : requirements
-    <source>/boost/rational//boost_rational
+    <library>/boost/rational//boost_rational
     ;
 
 exe rational :  main.cpp ;
